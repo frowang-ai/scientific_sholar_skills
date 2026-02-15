@@ -1,0 +1,3 @@
+# One token per line. Lines starting with # are comments.
+# Example:
+# sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

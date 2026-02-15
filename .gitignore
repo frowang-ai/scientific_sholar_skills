@@ -1,0 +1,4 @@
+output/
+state/
+*.zip
+scripts/tokens.txt
